@@ -1,0 +1,286 @@
+name,type_name,sphere_name,position,traits,keywords,text,flavor,shadow,german_name,german_type_name,german_sphere_name,german_position,german_traits,german_keywords,german_text,german_flavor,german_shadow
+Aragorn,Hero,Leadership,1,Dúnedain. Noble. Ranger.,Sentinel.,"Sentinel.
+<b>Response:</b> After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him.","""I am Aragorn son of Arathorn; and if by life or death I can save you, I will.""
+-The Fellowship of the Ring",None,,,,,,,,,
+Théodred,Hero,Leadership,2,Noble. Rohan. Warrior.,None,"<b>Response:</b> After Théodred commits to a quest, choose a hero committed to that quest. Add 1 resource to that hero's resource pool.","""Not all is dark. Take courage, Lord of the Mark...""
+-Gandalf, The Two Towers",None,,,,,,,,,
+Glóin,Hero,Leadership,3,Dwarf. Noble.,None,"<b>Response:</b> After Glóin suffers damage, add 1 resource to his resource pool for each point of damage he just suffered.","His beard, very long and forked, was white, nearly as white as the snow-white cloth of his garments.
+-The Fellowship of the Ring",None,,,,,,,,,
+Gimli,Hero,Tactics,4,Dwarf. Noble. Warrior.,None,Gimli gets +1 [attack] for each damage token on him.,"""Men need many words before deeds. My axe is restless in my hands""
+-The Two Towers",None,,,,,,,,,
+Legolas,Hero,Tactics,5,Noble. Silvan. Warrior.,Ranged.,"Ranged.
+<b>Response:</b> After Legolas participates in an attack that destroys an enemy, place 2 progress tokens on the current quest.","""I can walk this path, but others have not this skill.""
+-The Fellowship of the Ring",None,,,,,,,,,
+Thalin,Hero,Tactics,6,Dwarf. Warrior.,None,"While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck.","There hammer on the anvil smote,
+There chisel clove, and graver wrote;
+There forged was blade, and bound was hilt;
+The delver mined, the mason built.
+-The Fellowship of the Ring",None,,,,,,,,,
+Éowyn,Hero,Spirit,7,Noble. Rohan.,None,<b>Action:</b> Discard 1 card from your hand to give Éowyn +1 [willpower] until the end of the phase. This effect may be triggered by each player once each round.,"Slender and tall she was in her white robe girt with silver; but strong she seemed and stern as steel, a daughter of kings.
+-The Two Towers",None,,,,,,,,,
+Eleanor,Hero,Spirit,8,Gondor. Noble.,None,"<b>Response:</b> Exhaust Eleanor to cancel the 'when revealed' effects of a treachery card just revealed by the encounter deck. Then, discard that card, and replace it with the next card from the encounter deck.","""Gondor wanes, you say. But Gondor stands, and even the end of its strength is very strong.""
+-Boromir, The Fellowship of the Ring",None,,,,,,,,,
+Dúnhere,Hero,Spirit,9,Rohan. Warrior.,None,"Dúnhere can target enemies in the staging area when he attacks alone. When doing so, he gets +1 [attack].","Captains rode to meet him at the ford, bearing messages from Gandalf. Dúnhere, chieftain of the folk of Harrowdale, was at their head.
+-The Return of the King",None,,,,,,,,,
+Denethor,Hero,Lore,10,Gondor. Noble. Steward.,None,<b>Action:</b> Exhaust Denethor to look at the top card of the encounter deck. You may move that card to the bottom of the deck.,"""And the lord Denethor is unlike other men: he sees far.""
+-Beregond, The Return of the King",None,,,,,,,,,
+Glorfindel,Hero,Lore,11,Noble. Noldor. Warrior.,None,<b>Action:</b> Pay 1 resource from Glorfindel's pool to heal 1 damage on any character. (Limit once per round.),"""You saw him for a moment as he is upon the other side: one of the mighty of the firstborn.""
+-Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Beravor,Hero,Lore,12,Dúnedain. Ranger.,None,<b>Action:</b> Exhaust Beravor to choose a player. That player draws 2 cards. Limit once per round.,"But in the wild lands beyond Bree there were mysterious wanderers. The Bree-folk called them Rangers, and knew nothing of their origin.
+-The Fellowship of the Ring",None,,,,,,,,,
+Guard of the Citadel,Ally,Leadership,13,Gondor. Warrior.,None,,"""But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.""
+-Elrond, The Fellowship of the Ring",None,,,,,,,,,
+Faramir,Ally,Leadership,14,Gondor. Noble. Ranger.,None,<b>Action:</b> Exhaust Faramir to choose a player. Each character controlled by that player gets +1 [willpower] until the end of the phase.,"""He leads now in all perilous ventures. But his life is charmed, or fate spares him for some other end.""
+-Mablung, Ranger of Ithilien,
+The Two Towers",None,,,,,,,,,
+Son of Arnor,Ally,Leadership,15,Dúnedain.,None,"<b>Response:</b> After Son of Arnor enters play, choose an enemy card in the staging area or currently engaged with another player. Engage that enemy.","...and the North-realm they made in Arnor, and the South-realm in Gondor above the mouths of Anduin.
+-The Fellowship of the Ring",None,,,,,,,,,
+Snowbourn Scout,Ally,Leadership,16,Rohan. Scout.,None,"<b>Response:</b> After Snowbourn Scout enters play, choose a location. Place 1 progress token on that location.","...he saw not a shadow, nor a blur, but the small figures of horsemen, many horsemen, and the glint of morning on the tips of their spears was like the twinkle of minute stars beyond the edge of mortal sight.
+-The Two Towers",None,,,,,,,,,
+Silverlode Archer,Ally,Leadership,17,Archer. Silvan.,Ranged.,Ranged.,"""We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north towards Moria, along the skirts of the mountains, many days ago.""
+-Haldir of Lórien, The Fellowship of the Ring",None,,,,,,,,,
+Longbeard Orc Slayer,Ally,Leadership,18,Dwarf. Warrior.,None,"<b>Response:</b> After Longbeard Orc Slayer enters play, deal 1 damage to each Orc enemy in play.","Five dead Orcs lay there. They had been hewn with many cruel strokes, and two had been beheaded. The ground was wet with their dark blood.
+-The Two Towers",None,,,,,,,,,
+Brok Ironfist,Ally,Leadership,19,Dwarf. Warrior.,None,"<b>Response:</b> After a Dwarf hero you control leaves play, put Brok Ironfist into play from your hand.","...there is no knowing what a Dwarf will not dare and do for revenge and the recovery of his own.
+-The Hobbit",None,,,,,,,,,
+Ever Vigilant,Event,Leadership,20,,None,<b>Action:</b> Choose and ready 1 ally card.,"""...no road looks toward safety any longer. Be vigilant!""
+-Gandalf, The Return of the King",None,,,,,,,,,
+Common Cause,Event,Leadership,21,,None,<b>Action:</b> Exhaust 1 hero you control to choose and ready a different hero.,"""We will make such a chase as shall be accounted a marvel among the Three Kindreds: Elves, Dwarves, and Men.""
+-Aragorn, The Two Towers",None,,,,,,,,,
+For Gondor!,Event,Leadership,22,,None,"<b>Action:</b> Until the end of the phase, all characters get +1 [attack]. All Gondor characters also get +1 [defense] until the end of the phase.","And the tree that was withered shall be renewed,
+and he shall plant it in high places,
+
+and the City shall be blessed.
+-The Return of the King",None,,,,,,,,,
+Sneak Attack,Event,Leadership,23,,None,"<b>Action:</b> Put 1 ally card into play from your hand. At the end of the phase, if that ally is still in play, return it to your hand.","There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.
+-The Fellowship of the Ring",None,,,,,,,,,
+Valiant Sacrifice,Event,Leadership,24,,None,"<b>Response:</b> After an ally card leaves play, that card's controller draws 2 cards.","""He fell defending the Hobbits, while I was away upon the hill.""
+-Aragorn, The Two Towers",None,,,,,,,,,
+Grim Resolve,Event,Leadership,25,,None,<b>Action:</b> Ready all character cards in play.,"""If there is only one way, then I must take it. What comes after must come.""
+-Frodo Baggins, The Two Towers",None,,,,,,,,,
+Steward of Gondor,Attachment,Leadership,26,Gondor. Title.,None,"Attach to a hero. Attached hero gains the Gondor trait.
+<b>Action:</b> Exhaust Steward of Gondor to add 2 resources to attached hero's resource pool.","""It was commanded yesterday."" -Denethor, The Return of the King",None,,,,,,,,,
+Celebrían's Stone,Attachment,Leadership,27,Artifact. Item.,Restricted.,"Attach to a hero. Restricted.
+Attached hero gains +2 [willpower].
+If attached hero is Aragorn, he also gains a [spirit] resource icon.","""You needn't,"" said Bilbo. ""As a matter of fact it was all mine. Except that Aragorn insisted on my putting in a green stone. He seemed to think it important. I don't know why.""
+-The Fellowship of the Ring",None,,,,,,,,,
+Veteran Axehand,Ally,Tactics,28,Dwarf. Warrior.,None,,"""I am glad to have you standing nigh with your stout legs and your hard axe."" -Legolas, The Two Towers",None,,,,,,,,,
+Gondorian Spearman,Ally,Tactics,29,Gondor. Warrior.,Sentinel.,"Sentinel.
+<b>Response:</b> After Gondorian Spearman is declared as a defender, deal 1 damage to the attacking enemy.",More than a thousand were there mustered. Their spears were like a springing wood. -The Two Towers,None,,,,,,,,,
+Horseback Archer,Ally,Tactics,30,Rohan. Archer.,Ranged.,Ranged.,"A few of the riders appeared to be bowmen, skilled at shooting from a running horse. -The Two Towers",None,,,,,,,,,
+Beorn,Ally,Tactics,31,Beorning. Warrior.,None,"<b>Action:</b> Beorn gains +5 [attack] until the end of the phase. At the end of the phase in which you trigger this effect, shuffle Beorn back into your deck. (Limit once per round.)","""I don't need your service, thank you...but I expect you need mine."" -The Hobbit",None,,,,,,,,,
+Blade Mastery,Event,Tactics,32,,None,"<b>Action:</b> Choose a character. Until the end of the phase, that character gains +1 [attack] and +1 [defense].","Throwing back his cloak, he laid his hand on the hilt of a sword that had hung concealed by his side. They did not dare to move. -The Fellowship of the Ring",None,,,,,,,,,
+Rain of Arrows,Event,Tactics,33,,None,<b>Action:</b> Exhaust a character you control with the ranged keyword to choose a player. Deal 1 damage to each enemy engaged with that player.,"Arrows thick as the rain came whistling over the battlements, and fell clinking and glancing on the stones. Many found their mark. -The Two Towers",None,,,,,,,,,
+Feint,Event,Tactics,34,,None,<b>Combat Action:</b> Choose an enemy engaged with a player. That enemy cannot attack that player this phase.,"A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. -The Hobbit",None,,,,,,,,,
+Quick Strike,Event,Tactics,35,,None,<b>Action:</b> Exhaust a character you control to immediately declare it as an attacker (and resolve its attack) against any eligible enemy target.,"""...for he that strikes the first blow, if he strikes it hard enough, may need to strike no more."" -Gandalf, The Two Towers",None,,,,,,,,,
+Thicket of Spears,Event,Tactics,36,,None,"You must use resources from 3 different heroes' pools to pay for this card.
+<b>Action:</b> Choose a player. That player's engaged enemies cannot attack that player this phase.","Without a word or cry, suddenly, the Riders halted. A thicket of spears were pointed towards the strangers...
+-The Two Towers",None,,,,,,,,,
+Swift Strike,Event,Tactics,37,,None,"<b>Response:</b> After a character is declared as a defender, deal 2 damage to the attacking enemy.","A swift stroke she dealt, skilled and deadly.
+-The Return of the King",None,,,,,,,,,
+Stand Together,Event,Tactics,38,,None,<b>Action:</b> Choose a player. That player may declare any number of his eligible characters as defenders against each enemy attacking him this phase.,"...and when the task was done, there they would come to an end, alone, houseless, foodless in the midst of a terrible desert. There could be no return. -The Return of the King",None,,,,,,,,,
+Blade of Gondolin,Attachment,Tactics,39,Item. Weapon.,Restricted.,"Attach to a hero. Restricted.
+Attached hero gets +1 [attack] when attacking an Orc.
+<b>Response:</b> After attached hero attacks and destroys an enemy, place 1 progress token on the current quest.","It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung...
+-The Hobbit",None,,,,,,,,,
+Citadel Plate,Attachment,Tactics,40,Item. Armor.,Restricted.,"Attach to a hero. Restricted.
+Attached hero gets +4 Hit Points.","""Go to the armouries of the Citadel, and get you there the livery and gear of the Tower.""
+-Denethor, The Return of the King",None,,,,,,,,,
+Dwarven Axe,Attachment,Tactics,41,Item. Weapon.,Restricted.,"Attach to a hero. Restricted.
+Attached hero gains +1 [attack]. (+2 [attack] instead if attached hero is a Dwarf.)","""But keep your bow ready to hand, and I will keep my axe loose in my belt.""
+-Gimli, The Two Towers",None,,,,,,,,,
+Horn of Gondor,Attachment,Tactics,42,Item. Artifact.,Restricted.,"Attach to a hero. Restricted.
+<b>Response:</b> After a character is destroyed, add 1 resource to attached hero's pool.","'Slow should you be to wind that horn again, Boromir,' said Elrond, 'until you stand once more on the borders of your land, and dire need is on you.'
+-The Fellowship of the Ring",None,,,,,,,,,
+Wandering Took,Ally,Spirit,43,Hobbit.,None,<b>Action:</b> Reduce your threat by 3 to give control of Wandering Took to another player. Raise that player's threat by 3. (Limit once per round.),"...but certainly there was something not entirely hobbit-like about them, and once in a while members of the Took-clan would go and have adventures. -The Hobbit",None,,,,,,,,,
+Lórien Guide,Ally,Spirit,44,Silvan. Scout.,None,"<b>Response:</b> After Lórien Guide commits to a quest, place 1 progress token on the active location.","""Indeed deep in the wood they dwell..."" -Aragorn, The Fellowship of the Ring",None,,,,,,,,,
+Northern Tracker,Ally,Spirit,45,Dúnedain. Ranger.,None,"<b>Response:</b> After Northern Tracker commits to a quest, place 1 progress token on each location in the staging area.","""What roads would any dare to tread, what safety would there be in quiet lands, or in the homes of simple men at night, if the Dúnedain were asleep, or were all gone into the grave?"" -Aragorn, The Fellowship of the Ring",None,,,,,,,,,
+The Galadhrim's Greeting,Event,Spirit,46,,None,"<b>Action:</b> Reduce one player's threat by 6, or reduce each player's threat by 2.","""Welcome to Caras Galadhan!"" he said. ""Here is the city of the Galadhrim where dwell the Lord Celeborn and Galadriel the Lady of Lórien."" -The Fellowship of the Ring",None,,,,,,,,,
+Strength of Will,Event,Spirit,47,,None,"<b>Response:</b> After you travel to a location, exhaust a [spirit] character to place 2 progress tokens on that location.","Then Aragorn lead the way, and such was the strength of his will in that hour that all the Dúnedain and their horses followed him. -The Return of the King",None,,,,,,,,,
+Hasty Stroke,Event,Spirit,48,,None,<b>Response:</b> Cancel a shadow effect just triggered during combat.,"'The hasty stroke goes oft astray,' said Aragorn. 'We must press our Enemy, and no longer wait on him for the next move.' -The Return of the King",None,,,,,,,,,
+Will of the West,Event,Spirit,49,,None,<b>Action:</b> Choose a player. Shuffle that player's discard pile back into his deck. Remove Will of the West from the game.,"""If Gondor has such men still in these days of fading, great must have been its glory in the days of its rising."" -Legolas, The Return of the King",None,,,,,,,,,
+A Test of Will,Event,Spirit,50,,None,<b>Response:</b> Cancel the 'when revealed' effects of a card that was just revealed from the encounter deck.,"""There is naught that you can do, other than to resist, with hope or without it""
+-Elrond, The Fellowship of the Ring",None,,,,,,,,,
+Stand and Fight,Event,Spirit,51,,None,<b>Action:</b> Choose an ally with a printed cost of X in any player's discard pile. Put that ally into play under your control. (The chosen ally can belong to any sphere of influence.),"""...we will fight on."" -Boromir, The Fellowship of the Ring",None,,,,,,,,,
+A Light in the Dark,Event,Spirit,52,,None,<b>Action:</b> Choose an enemy engaged with a player. Return that enemy to the staging area.,"The light of the torches and the fire flickered about them...
+-The Hobbit",None,,,,,,,,,
+Dwarven Tomb,Event,Spirit,53,,None,<b>Action:</b> Return 1 [spirit] card from your discard pile to your hand.,"The dwarves no more shall suffer wrong,
+The dwarves of yore made mighty spells,
+While hammers fell like ringing bells
+In places deep, where dark things sleep,
+In hollow halls beneath the fells.
+-The Hobbit",None,,,,,,,,,
+Fortune or Fate,Event,Spirit,54,,None,"<b>Action:</b> Choose a hero in any player's discard pile. Put that card into play, under its owner's control.","'Yes, fortune or fate have helped you,' said Gandalf, 'not to mention courage.'
+-The Fellowship of the Ring",None,,,,,,,,,
+The Favor of the Lady,Attachment,Spirit,55,Condition.,None,"Attach to a hero.
+Attached hero gains +1 [willpower].","""You are indeed high in the favor of the Lady!""
+-Unnamed Elf of Lórien,
+The Fellowship of the Ring",None,,,,,,,,,
+Power in the Earth,Attachment,Spirit,56,Condition.,None,"Attach to a location.
+Attached location gets -1 [threat].","""Power to defy our Enemy is not in him, unless shuch power is in the earth itself."" -Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Unexpected Courage,Attachment,Spirit,57,Condition.,None,"Attach to a hero.
+<b>Action:</b> Exhaust Unexpected Courage to ready attached hero.","""Here am I, naughty little fly;
+you are fat and lazy.
+You cannot trap me, though you try,
+in your cobwebs crazy.""
+-Bilbo Baggins, The Hobbit",None,,,,,,,,,
+Daughter of the Nimrodel,Ally,Lore,58,Silvan.,None,<b>Action:</b> Exhaust Daughter of the Nimrodel to heal up to 2 damage on any 1 hero.,"""Here is Nimrodel! Of this stream the Silvan Elves made many songs long ago, and still we sing them in the North...I will bathe my feet, for it is said that the water is healing to the weary."" -Legolas, The Fellowship of the Ring",None,,,,,,,,,
+Erebor Hammersmith,Ally,Lore,59,Dwarf. Craftsman.,None,"<b>Response:</b> After you play Erebor Hammersmith, return the topmost attachment in any player's discard pile to his hand.","""In Erebor in the Kingdom of Dain there is such skill..."" -Aragorn, The Return of the King",None,,,,,,,,,
+Henamarth Riversong,Ally,Lore,60,Silvan.,None,<b>Action:</b> Exhaust Henamarth Riversong to look at the top card of the encounter deck.,"""And I reckon there's Elves and Elves. They're all elvish enough, but they're not all the same.""
+-Sam Gamgee,
+The Fellowship of the Ring",None,,,,,,,,,
+Miner of the Iron Hills,Ally,Lore,61,Dwarf.,None,"<b>Response:</b> After Miner of the Iron ~Hills enters play, choose and discard 1 Condition attachment from play.","...while the four dwarves sat around the table, and talked about mines and gold and troubles with goblins...
+-The Hobbit",None,,,,,,,,,
+Gléowine,Ally,Lore,62,Minstrel. Rohan.,None,<b>Action:</b> Exhaust Gléowine to choose a player. That player draws 1 card.,"Then the Riders of the King's House upon white horses rode round about the barrow and sang together a song of Théoden Thengel's son that Gléowine his minstrel made...
+-The Return of the King",None,,,,,,,,,
+Lore of Imladris,Event,Lore,63,,None,<b>Action:</b> Choose a character. Heal all damage from that character.,"""...understanding, making and healing...These things the Elves of Middle-earth have in some measure gained, though with sorrow.""
+-Elrond, The Fellowship of the Ring",None,,,,,,,,,
+Lórien's Wealth,Event,Lore,64,,None,<b>Action:</b> Choose a player. That player draws 3 cards.,"""That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.""
+-Legolas, The Fellowship of the Ring",None,,,,,,,,,
+Radagast's Cunning,Event,Lore,65,,None,"<b>Quest Action:</b> Choose an enemy in the staging area. Until the end of the phase, that enemy does not contribute its [threat].","""Radagast is, of course, a worthy Wizard, a master of shapes and changes of hue; and he has much lore of herbs and beasts, and birds are especially his friends."" -Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Secret Paths,Event,Lore,66,,None,"<b>Quest Action:</b> Choose a location in the staging area. Until the end of the phase, that location does not contribute its [threat].",...Beorn advised them to take this way; for at a place a few days' ride due north of the Carrock was the gate of a little-known pathway through Mirkwood... -The Hobbit,None,,,,,,,,,
+Gandalf's Search,Event,Lore,67,,None,"<b>Action:</b> Look at the top X cards of any player's deck, add 1 of those cards to its owner's hand, and return the rest to the top of the deck in any order.","""Less welcome did the Lord Denethor show me then than of old, and grudgingly he permitted me to search among his hoarded scrolls and books.""
+-Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Beorn's Hospitality,Event,Lore,68,,None,<b>Action:</b> Choose a player. Heal all damage on each hero controlled by that player.,"""...and my house is open to you, if ever you come back this way again.""
+-Beorn, The Hobbit",None,,,,,,,,,
+Forest Snare,Attachment,Lore,69,Item. Trap.,None,"Attach to an enemy engaged with a player.
+Attached enemy cannot attack.","""We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.""
+-Unidentified Man of Gondor,
+The Two Towers",None,,,,,,,,,
+Protector of Lórien,Attachment,Lore,70,Title.,None,"Attach to a hero.
+<b>Action:</b> Discard a card from your hand to give attached hero +1 [defense] or +1 [willpower] until the end of the phase. Limit 3 times per phase.","'Speak no evil of the lady Galadriel!' said Aragorn sternly. 'There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware.'
+-The Fellowship of the Ring",None,,,,,,,,,
+Dark Knowledge,Attachment,Lore,71,Condition.,None,"Attach to a hero. Attached hero gets -1 [willpower].
+<b>Response:</b> Exhaust ~Dark Knowledge to look at 1 shadow card that was just dealt to an enemy attacking you.","'Go on then!' said Frodo. 'What do you know?'
+'Too much; too many dark things,' said Strider grimly.
+-The Fellowship of the Ring",None,,,,,,,,,
+Self Preservation,Attachment,Lore,72,Skill.,None,"Attach to a character.
+<b>Action:</b> Exhaust Self Preservation to heal 2 points of damage from attached character.","...how much more of this would they have to endure, or could they endure?
+-The Two Towers",None,,,,,,,,,
+Gandalf,Ally,Neutral,73,Istari.,None,"At the end of the round, discard Gandalf from play.
+<b>Response:</b> After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5.",,None,,,,,,,,,
+King Spider,Enemy,None,74,Creature. Spider.,None,<b>When Revealed:</b> Each player must choose and exhaust 1 character he controls.,,<b>Shadow:</b> Defending player must choose and exhaust 1 character he controls. (2 characters instead if this attack is undefended.),,,,,,,,,
+Hummerhorns,Enemy,None,75,Creature. Insect.,None,"<b>Forced:</b> After Hummerhorns engages you, deal 5 damage to a single hero you control.",,<b>Shadow:</b> Deal 1 damage to each character the defending player controls. (2 damage instead if this attack is undefended.),,,,,,,,,
+Ungoliant's Spawn,Enemy,None,76,Creature. Spider.,None,<b>When Revealed:</b> Each character currently committed to a quest gets -1 [willpower] until the end of the phase.,,<b>Shadow:</b> Raise defending player's threat by 4. (Raise defending player's threat by 8 instead if this attack is undefended.),,,,,,,,,
+Great Forest Web,Location,None,77,Forest.,None,<b>Travel:</b> Each player must exhaust 1 hero he controls to travel here.,"As he drew nearer, he saw that it was made with spider-webs one behind and over and tangled with another.
+-The Hobbit",None,,,,,,,,,
+Mountains of Mirkwood,Location,None,78,Forest. Mountain.,None,"<b>Travel:</b> Reveal the top card of the encounter deck and add it to the staging area to travel here.<b>Response:</b> After Mountains of Mirkwood leaves play as an explored location, each player may search the top 5 cards of his deck for 1 card and add it to his hand. Shuffle the rest of the searched cards back into their owners' decks.",,None,,,,,,,,,
+Eyes of the Forest,Treachery,None,79,,None,<b>When Revealed:</b> Each player discards all event cards in his hand.,"...he would see gleams in the darkness around them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance, and then slowly fade and disappear and slowly shine out again in another place.
+-The Hobbit",None,,,,,,,,,
+Caught in a Web,Treachery,None,80,,None,<b>When Revealed:</b> The player with the highest threat level attaches this card to one of his heroes. (Counts as a Condition attachment with the text: 'Attached hero does not ready during the refresh phase unless you pay 2 resources from that hero's pool.'),,None,,,,,,,,,
+Wolf Rider,Enemy,None,81,Goblin. Orc.,Surge.,Surge.,,"<b>Shadow:</b> Wolf Rider attacks the defending player. That player may declare 1 character as a defender. Deal Wolf Rider its own Shadow card. After combat, return Wolf Rider to the top of the encounter deck.",,,,,,,,,
+Hill Troll,Enemy,None,82,Troll.,None,Excess combat damage dealt by Hill Troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) must be assigned as an increase to your threat.,"""Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.""
+-Troll, The Hobbit",None,,,,,,,,,
+Goblin Sniper,Enemy,None,83,Goblin. Orc.,None,"During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.<b>Forced:</b> If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls.",,None,,,,,,,,,
+Marsh Adder,Enemy,None,84,Creature.,None,"<b>Forced:</b> Each time Marsh Adder attacks you, raise your threat by 1.","Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.
+-The Fellowship of the Ring",None,,,,,,,,,
+Wargs,Enemy,None,85,Creature.,None,"<b>Forced:</b> If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks.",,<b>Shadow:</b> attacking enemy gets 1 [attack]. (2 [attack] instead if this attack is undefended.),,,,,,,,,
+Despair,Treachery,None,86,,None,"<b>When Revealed:</b> Remove 4 progress tokens from the current quest card. (If there are fewer than 4 progress tokens on the quest, remove all progress tokens from that quest.)",,<b>Shadow:</b> Defending character does not count its [defense].,,,,,,,,,
+The Brown Lands,Location,None,87,Wasteland.,None,"<b>Forced:</b> After the players travel to The Brown Lands, place 1 progress token on it.","They had come to the Brown Lands that lay, vast and desolate, between Southern Mirkwood and the hills of the Emyn Muil. What pestilence or war or evil deed of the Enemy had so blasted all that region even Aragorn could not tell.
+-The Fellowship of the Ring",None,,,,,,,,,
+The East Bight,Location,None,88,Wasteland.,None,"When faced with the option to travel, the players must travel to The East Bight if there is no active location.","""...to the east the lands are waste, and full of Sauron's creatures...""
+-Haldir, The Fellowship of the Ring",None,,,,,,,,,
+Dol Guldur Orcs,Enemy,None,89,Dol Guldur. Orc.,None,<b>When Revealed:</b> The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character.,,<b>Shadow:</b> attacking enemy gets 1 [attack]. (3 [attack] instead if this attack is undefended.),,,,,,,,,
+Chieftan Ufthak,Enemy,None,90,Dol Guldur. Orc.,None,"Chieftain Ufthak get 2 [attack] for each resource token on him.
+<b>Forced:</b> After Chieftain Ufthak attacks, place 1 resource token on him.",,None,,,,,,,,,
+Dol Guldur Beastmaster,Enemy,None,91,Dol Guldur. Orc.,None,"<b>Forced:</b> When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card.",,None,,,,,,,,,
+Driven by Shadow,Treachery,None,92,,None,"<b>When Revealed:</b> Each enemy and each location currently in the staging area gets 1 [threat] until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge.",,"<b>Shadow:</b> Choose and discard 1 attachment from the defending character. (If this attack is undefended, discard all attachments you control.)",,,,,,,,,
+The Necromancer's Reach,Treachery,None,93,,None,<b>When Revealed:</b> Deal 1 damage to each exhausted character.,There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. - The Fellowship of the Ring,None,,,,,,,,,
+Necromancer's Pass,Location,None,94,Stronghold. Dol Guldur.,None,<b>Travel:</b> The first player must discard 2 cards from his hand at random to travel here.,"""It is clad in a forest of dark fir, where the trees strive one against another and their branches rot and wither. In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling.""
+-Haldir, The Fellowship of the Ring",None,,,,,,,,,
+Enchanted Stream,Location,None,95,Forest.,None,"While Enchanted Stream is the active location, players cannot draw cards.","""There is one stream, I know, black and strong which crosses the path. That you should neither drink of, nor bathe in; for I have heard that it carries enchantment and a great drowsiness and forgetfulness.""
+-Beorn, The Hobbit",None,,,,,,,,,
+Forest Spider,Enemy,None,96,Creature. Spider.,None,"<b>Forced:</b> After Forest Spider engages a player, it gets 1 [attack] until the end of the round.",,<b>Shadow:</b> Defending player must choose and discard 1 attachment he controls.,,,,,,,,,
+East Bight Patrol,Enemy,None,97,Goblin. Orc.,None,,,"<b>Shadow:</b> attacking enemy gets 1 [attack]. (If this attack is undefended, also raise your threat by 3.)",,,,,,,,,
+Black Forest Bats,Enemy,None,98,Creature.,None,"<b>When Revealed:</b> Each player must choose 1 character currently committed to a quest, and remove that character from the quest. (The chosen character does not ready.)","They could not stand that, nor the huge bats, black as a top-hat, either...
+-The Hobbit",None,,,,,,,,,
+Old Forest Road,Location,None,99,Forest.,None,"<b>Response:</b> After you travel to Old Forest Road, the first player may choose and ready 1 character he controls.","...Beorn had warned them that that way was now often used by the goblins, while the forest-road itself, he had heard, was overgrown and disused on the eastern end and led to impassable marshes where the path had long been lost.
+-The Hobbit",None,,,,,,,,,
+Forest Gate,Location,None,100,Forest.,None,"<b>Response:</b> After you travel to Forest Gate, the first player may draw 2 cards.","The path itself was narrow and wound in and out among the trunks. Soon the light in the gate was like a little bright hole far behind, and the quiet was so deep that their feet seemed to thump along while the trees leaned over them and listened.
+-The Hobbit",None,,,,,,,,,
+Dungeon Jailor,Enemy,None,101,Dol Guldur. Orc.,None,"<b>Forced:</b> If Dungeon Jailor is in the staging area after the players have just quested unsuccessfully, shuffle 1 unclaimed objective card from the staging area back into the encounter deck.",,None,,,,,,,,,
+Nazgûl of Dol Guldur,Enemy,None,102,Nazgûl.,None,"No attachments can be played on Nazgûl of Dol Guldur.
+<b>Forced:</b> When the prisoner is 'rescued', move Nazgûl of Dol Guldur into the staging area.
+<b>Forced:</b> After a shadow effect dealt to Nazgûl of Dol Guldur resolves, the engaged player must choose and discard 1 character he controls.",,None,,,,,,,,,
+Cavern Guardian,Enemy,None,103,Undead.,Doomed 1.,Doomed 1.,,"<b>Shadow:</b> Choose and discard 1 attachment you control. Discarded  objective cards are returned to the staging area. (If this attack is  undefended, discard all attachments you control.)",,,,,,,,,
+Under the Shadow,Treachery,None,104,,None,"<b>When Revealed:</b> Until the end of the phase, raise the total [threat] in the  staging area by X, where X is the number of players in the game.",,<b>Shadow:</b> Defending player raises his threat by the number of enemies  with which he is engaged.,,,,,,,,,
+Iron Shackles,Treachery,None,105,,None,"<b>When Revealed:</b> Attach Iron Shackles to the top of the first player's deck. (Counts as a Condition attachment with the text: 'The next time a player would draw 1 or more cards from attached deck, discard Iron Shackles instead.')",,<b>Shadow:</b> Resolve the 'When Revealed' effect of Iron Shackles.,,,,,,,,,
+Endless Caverns,Location,None,106,Dungeon.,Doomed 1. Surge.,Doomed 1. Surge.,"""I alone of you have ever been in the dungeons of the Dark Lord, and only in his older and lesser dwelling in Dol Guldur.""
+-Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Tower Gate,Location,None,107,Dungeon.,None,"<b>Forced:</b> After travelling to Tower Gate, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called 'Orc Guard', and act as enemies with: 1 hit point, 1 [attack], and 1 [defense].","""I myself dared to pass the doors of the Necromancer in Dol Guldur, and secretly explored his ways.""
+-Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Gandalf's Map,Objective,None,108,Item.,Guarded. Restricted.,"Guarded. Restricted.
+<b>Action:</b> Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Gandalf's Map to a hero you control. (Counts as an attachment. If detached, return Gandalf's Map to the staging area.) Attached hero cannot attack or defend.",,None,,,,,,,,,
+Dungeon Torch,Objective,None,109,Item.,Guarded. Restricted.,"Guarded. Restricted.
+<b>Action:</b> Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Dungeon Torch to a hero you control. (Counts as an attachment. If detached, return Dungeon Torch to the staging area.)<b>Forced:</b> At the end of each round, raise attached hero's controller's threat by 2.",,None,,,,,,,,,
+Shadow Key,Objective,None,110,Item.,Guarded. Restricted.,"Guarded. Restricted.
+<b>Action:</b> Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Shadow Key to a hero you control. (Counts as an attachment. If detached, return Shadow Key to the staging area.)<b>Forced:</b> At the end of each round, attached hero suffers 1 damage.",,None,,,,,,,,,
+Misty Mountain Goblins,Enemy,None,111,Goblin. Orc.,None,"<b>Forced:</b> After Misty Mountain Goblins attacks, remove 1 progress token from the current quest.",,<b>Shadow:</b> Remove 1 progress token from the current quest. (3 progress tokens instead if this attack is undefended.),,,,,,,,,
+Massing at Night,Treachery,None,112,,None,<b>When Revealed:</b> Reveal X additional cards from the encounter deck. X is the number of players in the game.,,<b>Shadow:</b> Deal X shadow cards to this attacker. X is the number of players in the game.,,,,,,,,,
+Banks of the Anduin,Location,None,113,Riverland.,None,"<b>Forced:</b> If Banks of the Anduin leaves play, return it to the top of the encounter deck instead of placing it in the discard pile.","Here and there through openings Frodo could catch sudden glimpses of rolling mounds, and far beyond them hills in the sunset, and away on the edge of sight a dark line, where marches the southernmost ranks of the Misty Mountains.
+-The Fellowship of the Ring",None,,,,,,,,,
+Gladden Fields,Location,None,114,Marshland.,None,"<b>Forced:</b> While Gladden Fields is the active location, each player must raise his threat by an additional point during the refresh phase.","""On a time they took a boat and went down to the Gladden Fields, where there were great beds of iris and flowering reeds.""
+-Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+Eastern Crows,Enemy,None,115,Creature.,Surge.,"Surge.
+<b>Forced:</b> After Eastern Crows is defeated, shuffle it back into the encounter deck.",,<b>Shadow:</b> attacking enemy gets +1 [attack]. (+2 [attack] instead if defending player's threat is 35 or higher.),,,,,,,,,
+Evil Storm,Treachery,None,116,,None,<b>When Revealed:</b> Deal 1 damage to each character controlled by each player with a threat of 35 or higher.,"""They say in my land he can govern the storms in the Mountains of Shadow...""
+-Boromir, The Fellowship of the Ring",None,,,,,,,,,
+Pursued by Shadow,Treachery,None,117,,None,<b>When Revealed:</b> Each player raises his threat by 1 for each character he controls that is not currently committed to a quest.,,"<b>Shadow:</b> Defending player chooses and returns 1 exhausted ally he controls to its owner's hand. If he controls no exhausted allies, raise his threat by 3.",,,,,,,,,
+Treacherous Fog,Treachery,None,118,,None,"<b>When Revealed:</b> Each location in the staging area gets +1 [threat] until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand.","""But it will be hard to find the path unless the fog lifts a little later on.""
+-Aragorn, The Fellowship of the Ring",None,,,,,,,,,
+Flies and Spiders,Quest,None,119,,None,"<b>Setup:</b> Search the encounter deck for 1 copy of the ~Forest ~Spider and 1 copy of the Old ~Forest ~Road, and add them to the staging area. Then, shuffle the encounter deck.","You are traveling through Mirkwood forest, carrying an urgent message from King Thanduil to the Lady Galadriel of Lorien. As you move along the dark trail, the spiders gather around you...",None,,,,,,,,,
+A Fork in the Road,Quest,None,120,,None,"<b>Side A</b>  <b>Side B</b> <b>Forced:</b> When you defeat this stage, proceed to one of the 2 ""A Chosen ~Path"" stages, at random.","As you move through Mirkwood, hounded by spiders, the forest path forks before you...",None,,,,,,,,,
+A Chosen Path,Quest,None,121,,None,"<b>Side A</b>  <b>Side B</b> <b>When Revealed:</b> Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.
+The players must find and defeat Ungoliant's Spawn to win this game.","The trail winds into one of the darkest, most tangled parts of the forest...
+
+You sense that foul, dark presence is hunting you, and you move quickly in an attempt to avoid its evil.",None,,,,,,,,,
+A Chosen Path,Quest,None,122,,None,"<b>Side A</b>  <b>Side B</b> Players cannot defeat this stage while Ungoliant's Spawn is in play. If players defeat this stage, they have won the game.","The trail winds into one of the darkest, most tangled parts of the forest...
+
+You sense that foul, dark presence is hunting you, and you move quickly in an attempt to avoid its evil.",None,,,,,,,,,
+The Necromancer's Tower,Quest,None,123,,None,"<b>Side A</b> <b>Setup:</b> Search the encounter deck for the 3 objective cards, reveal and place them in the staging area. Also, place the Nazgul of Dol Guldur face up but out of play, alongside the quest deck. Then, shuffle the encounter deck, and attach 1 encounter to each objective card. <b>Side B</b> <b>When Revealed:</b> Randomly select 1 hero card (among all the heroes controlled by the players) and turn it facedown. The hero is now considered a ""prisoner"", cannot be used, cannot be damaged, and does not collect resources, until it is ""rescued"" (as instructed by card effects) later in this quest.
+The players, as a group, cannot play more than 1 ally card each round.
+Players cannot advance to the next stage of this quest unless they have at least 1 objective card.","The Lady Galadriel of Lorien has asked you to investigate the area in the vicinity of Dol Guldar. While doing so, one of your allies was ambushed by Orcs, captured, and is now held in a dungeon cell...",None,,,,,,,,,
+Through the Caverns,Quest,None,124,,None,"<b>Side A</b>  <b>Side B</b> <b>Response:</b> After placing any number of progress tokens on this card, flip the ""prisoner"" hero card face-up, and place 1 damage toke on it. The hero has been ""rescued"" and may now be used by its controller.
+The players, as a group, cannot play more than 1 ally card each round.
+Players cannot advance to the next stage of the quest unless they have rescued the prisoner and have all 3 ""Escape from Dol Guldur"" objective cards.","Finding a hidden entrance to the dungeons of Dol Guldur at last, you attempt to make your way through the caverns beneath the hill, searching for your imprisoned friend. The denizens of this labyrinth stand in your way, while the jailors protect the prisoner.",None,,,,,,,,,
+Out of the Dungeons,Quest,None,125,,None,"<b>Side A</b>  <b>Side B</b> <b>Forced:</b> At the beginning of each quest phase, each player places the top card of his deck, face down in front of him as if it just engaged him from the staging area. These cards are called ""Orc Guard"" and act as enemies with: 1 hit point, 1 [attack], and 1 [defense].
+Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game.","Following a thread of sunlight, you discover a cavern opening leading out through the side of the hill. Stationed outside the cave-mouth, however, is a large group of Orcs.",None,,,,,,,,,
+To the River...,Quest,None,126,,None,"<b>Side A</b> <b>Setup:</b> Each player reveals 1 card from the top of the encounter deck, and adds it to the staging area. <b>Side B</b> <b>When Revealed:</b> Search the encounter deck for 1 Hill Troll is one is not already in play, and place it in the staging area. Shuffle the encounter deck.
+Players cannot defeat this stage while any Hill Troll cards are in play.","Emerging from Mirkwood Forest with an urgent message from Lady Galadriel, you must make your way south along the Anduin River in order to reach the forst of Lórien. As you leave the forest behind, you notice that you are being pursued, and thus quicken your pace...",None,,,,,,,,,
+Anduin Passage,Quest,None,127,,None,Reveal 1 additional card from the encounter deck each quest phase. Do not make engagement checks during the encounter phase. (Each player may still optionally engage 1 enemy each encounter phase.),"After defeating the Troll, you are able to board the raft and embark upon a river voyage. As you depart, your enemies pursue, harassing the small vessel as you attempt to navigate the river...",None,,,,,,,,,
+Ambush on the Shore,Quest,None,128,,None,"<b>When Revealed:</b> Reveal 2 encounter cards per player, and add them to the staging area.
+Skip the staging step of the quest phase for the remainder of the game.
+Once there are no enemies in play, the players have won the game.","The ongoing harassment from your enemies has forced your raft to the shore, and you must now confront their ambush head on. If you survive this attack, your path to the Golden Wood should be open before you...",None,,,,,,,,,
+Passage Through Mirkwood,Campaign,None,129,,None,"<b>Side A</b> You are playing Campaign Mode.
+<b>Setup:</b> Put Mendor into play.
+If Mendor leaves play, the players lose the game. <b>Side B</b> Resolution: Each player earns 1 copy of the Mendor's Support boon crd. Add the earned cards to the Campaign Pool.
+If Stage 3B was Beorn's Path, add the Ungoliant's Swarm burden card to the Campaign Pool.
+If Stage 3B was Don't Leave the Path, add the Lingering Venom burden card to the Campaign Pool.","King Thranduil has assigned a guide, Mendor, to assist you in your passage through Mirkwood Forest.",None,,,,,,,,,
+Journey Along the Anduin,Campaign,None,130,,None,"<b>Side A</b> You are playing Campaign Mode.
+<b>Setup:</b> Put Mendor into play. Set each copy of Valor and Scarred aside, out of play.
+<b>Response:</b> After a Hill Troll is defeated, each player attaches 1 set-side copy of Valor to a hero they control, if able.
+<b>Forced:</b> After a character is destroyed by a Hill Troll, each player attaches 1 set-aside copy of Scarred to a hero they control. (Limit once per game.)
+If Mendor leaves play, the players lose the game <b>Side B</b> Resolution: Add each copy of Valor and Scarred in play to the Campaign Pool. Record the names of the heroes with Valor and/or Scarred attached in the notes section of the Campaign Log and attach them to those heroes when setting up each subsequent scenario in this campaign.
+The hero with the most damage will be taken prisoner at the beginning of Escape from Dol Guldur (in case of a tie, randomly select among the heroes with the most damage.) Record the name of the ""prisoner"" in the notes section of the Campaign Log.",,None,,,,,,,,,
+Escape from Dol Guldur,Campaign,None,131,,None,"<b>Side A</b> You are playing Campaign Mode.
+<b>Setup:</b> Put Mendor into play. Attached Appointed by Fate to a hero of the first player's choice.
+<b>Forced:</b> When a hero would be randomly selected to be a ""prisoner"", the ""prisoner"" from the Campaign Log is selected instead. Each card attached to that hero is turned facedown until that hero is ""rescued."" Mendor is captured as well. Place Mendor facedown next to the prisoner (this does not cause him to leave play). Flip this card over. <b>Side B</b> <b>Response:</b> After the first objective is claimed, flip Mendor face-up and place 1 damage token on him.
+Resolution: Determine one of the following:
+1) If Mendor is still in play, add Mendor to the Campaign Pool.
+If you do, put Mendor into play at the start of each scenario during your next campaign. Each player may include 1 copy of Mendor's Support in their deck during that campaign.
+2) If Mendor is not in play, do not adjust the Campaign Pool for your next campaign.","Your guide, Mendor, has also been taken by the enemy!",None,,,,,,,,,
+Mendor's Support,Event,Neutral,132,,None,"Only one copy of Mendor's Support can be played each round.
+<b>Action:</b> Mendor gets +2 [willpower], +2 [attack], and +2 [defense] until the end of the round.",,None,,,,,,,,,
+Valor,Attachment,Neutral,133,Condition.,Permanent.,"Permanent. Limit 1 per hero.
+<b>Response:</b> After attached hero is declared as an attacker, exhaust Valor to heal 1 damage from attached hero and deal 1 damage to the defening enemy.",,None,,,,,,,,,
+Appointed by Fate,Attachment,Neutral,134,Condition.,None,Attached hero collects 1 additional resource during each resource phase.,"""Yet it is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set...""
+-Gandalf, The Return of the King",None,,,,,,,,,
+Mendor,Objective Ally,None,135,Silvan. Scout.,Ranged.,"Ranged.
+The first player gains control of Mendor.
+<b>Response:</b> After a quest card is defeated, ready Mendor. Then, each player draws 1 card.
+If Mendor leaves play, remove him from the game.",,None,,,,,,,,,
+Ungoliant's Swarm,Enemy,None,136,Creature. Spider.,None,"<b>Forced:</b> After Ungoliant's Swarm engages a player, that player must choose and exhaust 2 characters they control.",,<b>Shadow:</b> Put Ungoliant's Swarm into play engaged with you.,,,,,,,,,
+Lingering Venom,Treachery,None,137,,Surge.,"Surge.
+<b>When Revealed:</b> Each player must choose: either exhaust each damaged character you control, or deal 2 damage to the hero you control with the most damage on it.",,<b>Shadow:</b> Exhaust each damaged character you control.,,,,,,,,,
+Scarred,Objective,None,138,,Permanent.,"Permanent. Limit 1 per hero.
+<b>Forced:</b> After a character you control is destroyed, raise your threat by 1.",,None,,,,,,,,,
