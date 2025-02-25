@@ -25,36 +25,6 @@ def extract_german_name(url):
     else:
         return f"Failed to retrieve {url}"
 
-# Function to extract german_text (plain text from the next <p> after <h2> with "Kartentext" span)
-def extract_german_text(url):
-    response = requests.get(url)
-    
-    # Check if the request was successful
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find all <h2> tags
-        h2_tags = soup.find_all('h2')
-        
-        for h2 in h2_tags:
-            # Skip the <h2> with the text "Inhaltsverzeichnis"
-            if "Inhaltsverzeichnis" in h2.get_text(strip=True):
-                continue
-            
-            # Check if the <h2> contains a <span> with the text "Kartentext"
-            span_tag = h2.find('span', string="Kartentext")
-            if span_tag:
-                # Find the next <p> tag after this <h2> tag
-                p_tag = h2.find_next('p')
-                if p_tag:
-                    # Get the plain text from the <p> tag, ignoring any inner tags (like <a>, <b>, etc.)
-                    german_text = p_tag.get_text(strip=True)
-                    return german_text
-        
-        return "No relevant <p> found after <h2> with Kartentext"
-    else:
-        return f"Failed to retrieve {url}"
-
 # URL for the page with the links
 url = "https://hdr-lcg.fandom.com/de/wiki/Grundspiel_(Neuauflage)"
 
@@ -83,21 +53,20 @@ if response.status_code == 200:
                     links.append(full_url)
 
     # Create or open a CSV file for writing the data
-    with open('german_names_and_text.csv', 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['URL', 'german_name', 'german_text']
+    with open('german_names.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['URL', 'german_name']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         # Write the header
         writer.writeheader()
 
-        # Iterate through the links and extract the german_name and german_text
+        # Iterate through the links and extract the german_name
         for link in links:
             german_name = extract_german_name(link)
-            german_text = extract_german_text(link)
-            # Write each row of data (URL, German name, and German text) to the CSV
-            writer.writerow({'URL': link, 'german_name': german_name, 'german_text': german_text})
+            # Write each row of data (URL and German name) to the CSV
+            writer.writerow({'URL': link, 'german_name': german_name})
 
-    print("Data successfully saved to german_names_and_text.csv")
+    print("Data successfully saved to german_names.csv")
 
 else:
     print("Failed to retrieve the page")
