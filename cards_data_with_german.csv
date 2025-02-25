@@ -1,33 +1,48 @@
 name,type_name,sphere_name,position,traits,keywords,text,flavor,shadow,german_name,german_type_name,german_sphere_name,german_position,german_traits,german_keywords,german_text,german_flavor,german_shadow
 Aragorn,Hero,Leadership,1,Dúnedain. Noble. Ranger.,Sentinel.,"Sentinel.
 <b>Response:</b> After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him.","""I am Aragorn son of Arathorn; and if by life or death I can save you, I will.""
--The Fellowship of the Ring",None,,,,,,,,,
+-The Fellowship of the Ring",None,Aragorn,Held,Führung,1,Dúnedain. Adlig. Waldläufer.,Schildwache,"Reaktion: Nachdem sich Aragorn einem Abenteuer gestellt hat, gib 1 Ressource aus seinem Ressourcenvorrat aus, um ihn spielbereit zu machen. ","„Ich bin Aragorn, Arathorns Sohn, und wenn ich durch Leben oder Tod euch retten kann, dann will ich es tun.“ 
+–Die Gefährten ",None
 Théodred,Hero,Leadership,2,Noble. Rohan. Warrior.,None,"<b>Response:</b> After Théodred commits to a quest, choose a hero committed to that quest. Add 1 resource to that hero's resource pool.","""Not all is dark. Take courage, Lord of the Mark...""
--Gandalf, The Two Towers",None,,,,,,,,,
+-Gandalf, The Two Towers",None,Théodred,Held,Führung,2,Rohan. Adlig. Krieger.,,"Reaktion: Nachdem sich Théodred einem Abenteuer gestellt hat, wähle einen Helden aus, der sich diesem Abenteuer gestellt hat. Dieser Held erhält 1 Ressource in seinen Ressourcenvorrat. ","„Nicht alles ist dunkel. Fasst Mut, Herr der Mark!“ 
+−Gandalf, Die Zwei Türme ",None
 Glóin,Hero,Leadership,3,Dwarf. Noble.,None,"<b>Response:</b> After Glóin suffers damage, add 1 resource to his resource pool for each point of damage he just suffered.","His beard, very long and forked, was white, nearly as white as the snow-white cloth of his garments.
--The Fellowship of the Ring",None,,,,,,,,,
+-The Fellowship of the Ring",None,Glóin,Held,Führung,3,Zwerg. Adlig.,,"Reaktion: Nachdem Glóin Schaden erlitten hat, erhält er für jeden eben erlittenen Schaden 1 Ressource in seinen Ressourcenvorrat.","„Sein Bart, sehr lang und gegabelt, war weiß, fast so weiß wie das schneeweiße Tuch seines Gewands.“ 
+−Die Gefährten ",None
 Gimli,Hero,Tactics,4,Dwarf. Noble. Warrior.,None,Gimli gets +1 [attack] for each damage token on him.,"""Men need many words before deeds. My axe is restless in my hands""
--The Two Towers",None,,,,,,,,,
+-The Two Towers",None,Gimli,Held,Taktik,4,Zwerg. Adlig.Krieger.,,Gimli erhält +1 [attack] für jeden Schadensmarker auf ihm. ,"„Die Menschen brauchen vor Taten viele Worte. Meine Axt ist unruhig in meiner Hand.“ 
+−Die Zwei Türme ",None
 Legolas,Hero,Tactics,5,Noble. Silvan. Warrior.,Ranged.,"Ranged.
 <b>Response:</b> After Legolas participates in an attack that destroys an enemy, place 2 progress tokens on the current quest.","""I can walk this path, but others have not this skill.""
--The Fellowship of the Ring",None,,,,,,,,,
+-The Fellowship of the Ring",None,Legolas,Held,Taktik,5,Adlig. Waldelb. Krieger.,Fernkampf,"Reaktion: Nachdem Legolas an einem Angriff teilgenommen hat, der einen Gegner getötet hat, lege 2 Fortschrittsmarker auf die aktuelle Abenteuerkarte. ","„Ich kann darauf laufen, aber die anderen sind nicht so geschickt.“ 
+–Die Gefährten ",None
 Thalin,Hero,Tactics,6,Dwarf. Warrior.,None,"While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck.","There hammer on the anvil smote,
 There chisel clove, and graver wrote;
 There forged was blade, and bound was hilt;
 The delver mined, the mason built.
--The Fellowship of the Ring",None,,,,,,,,,
+-The Fellowship of the Ring",None,Thalin,Held,Taktik,6,Zwerg. Krieger.,,"Solange sich Thalin einem Abenteuer stellt, füge jedem Gegner, der vom Begegnungsdeck aufgedeckt wird, 1 Schaden zu. ","„Der Hammer auf den Amboß hieb, 
+Der Stichel grub, der Meißel trieb, 
+Geschärfte Schwerterklinge sang, 
+Der Reichtum wuchs bei jedem Gang.“ 
+–Die Gefährten ",None
 Éowyn,Hero,Spirit,7,Noble. Rohan.,None,<b>Action:</b> Discard 1 card from your hand to give Éowyn +1 [willpower] until the end of the phase. This effect may be triggered by each player once each round.,"Slender and tall she was in her white robe girt with silver; but strong she seemed and stern as steel, a daughter of kings.
--The Two Towers",None,,,,,,,,,
+-The Two Towers",None,Éowyn,Held,Geist,7,Rohan. Adlig.,,"Aktion: Lege 1 Karte aus deiner Hand ab, um Éowyn bis zum Ende der Phase +1 [willpower] zu geben. Dieser Effekt kann von jedem Spieler ein Mal pro Runde ausgelöst werden. ","Schlank und groß war sie in ihrem weißen Gewand mit dem silbernen Gürtel; doch stark schien sie zu sein, und hart wie Stahl, eine Tochter von Königen. 
+–Die Zwei Türme ",None
 Eleanor,Hero,Spirit,8,Gondor. Noble.,None,"<b>Response:</b> Exhaust Eleanor to cancel the 'when revealed' effects of a treachery card just revealed by the encounter deck. Then, discard that card, and replace it with the next card from the encounter deck.","""Gondor wanes, you say. But Gondor stands, and even the end of its strength is very strong.""
--Boromir, The Fellowship of the Ring",None,,,,,,,,,
+-Boromir, The Fellowship of the Ring",None,Eleanor,Held,Geist,8,Gondor. Adlig.,,"Reaktion: Erschöpfe Eleanor, um die „Wenn aufgedeckt“-Effekte einer gerade vom Begegnungsdeck aufgedeckten Verratskarte zu verhindern. Lege danach jene Karte auf den Ablagestapel und ersetze sie durch die nächste Karte des Begegnungsdecks. ","„Gondors Macht schwindet, sagt Ihr. Aber Gondor steht noch, und selbst das Ende seiner Kraft ist noch sehr stark.“ 
+−Boromir, die Gefährten ",None
 Dúnhere,Hero,Spirit,9,Rohan. Warrior.,None,"Dúnhere can target enemies in the staging area when he attacks alone. When doing so, he gets +1 [attack].","Captains rode to meet him at the ford, bearing messages from Gandalf. Dúnhere, chieftain of the folk of Harrowdale, was at their head.
--The Return of the King",None,,,,,,,,,
+-The Return of the King",None,Dúnhere,Held,Geist,9,Rohan. Krieger.,,"Dúnhere kann Gegner in der Aufmarschzone als Ziel wählen, sobald er allein angreift. Sobald er dies tut, erhält er +1 [attack]. ","Hauptleute ritten ihm zur Furt entgegen und brachten ihm Botschaften von Gandalf. Dúnhere, der Anführer des Volkes von Hargtal, war an ihrer Spitze. 
+–Die Rückkehr des Königs",Nonce
 Denethor,Hero,Lore,10,Gondor. Noble. Steward.,None,<b>Action:</b> Exhaust Denethor to look at the top card of the encounter deck. You may move that card to the bottom of the deck.,"""And the lord Denethor is unlike other men: he sees far.""
--Beregond, The Return of the King",None,,,,,,,,,
+-Beregond, The Return of the King",None,Denethor,Held,Wissen,10,Gondor. Adlig. Truchsess.,,"Aktion: Erschöpfe Denethor, um dir die oberste Karte des Begegnungsdecks anzusehen. Du kannst diese Karte unter das Begegnungsdeck legen. ","„Und der Herr Denethor ist nicht wie andere Menschen: er blickt weit.“ 
+−Beregond, Die Rückkehr des Königs",None
 Glorfindel,Hero,Lore,11,Noble. Noldor. Warrior.,None,<b>Action:</b> Pay 1 resource from Glorfindel's pool to heal 1 damage on any character. (Limit once per round.),"""You saw him for a moment as he is upon the other side: one of the mighty of the firstborn.""
--Gandalf, The Fellowship of the Ring",None,,,,,,,,,
+-Gandalf, The Fellowship of the Ring",None,Glorfindel,Held,Wissen,11,Noldor. Adlig. Krieger.,,"Aktion: Zahle 1 Ressource aus Glorfindels Vorrat, um 1 Schaden eines beliebigen Charakters zu heilen (nur 1 Mal pro Runde). ","„Du hast ihn einen Augenblick so gesehen, wie ihn die andere Seite sieht: als einen der Mächtigen unter den Erstgeborenen.“
+−Gandalf, Die Gefährten",None
 Beravor,Hero,Lore,12,Dúnedain. Ranger.,None,<b>Action:</b> Exhaust Beravor to choose a player. That player draws 2 cards. Limit once per round.,"But in the wild lands beyond Bree there were mysterious wanderers. The Bree-folk called them Rangers, and knew nothing of their origin.
--The Fellowship of the Ring",None,,,,,,,,,
+-The Fellowship of the Ring",None,Beravor,Held,Wissen,12,Dúnedain. Waldläufer.,,"Aktion: Erschöpfe Beravor, um einen Spieler zu wählen. Dieser Spieler zieht zwei Karten (nur einmal pro Runde). ","„Doch waren in den wilden Landen jenseits von Bree geheimnisvolle Wanderer unterwegs. Die Leute nannten sie Waldläufer und wussten nichts über ihre Herkunft.“ 
+–Die Gefährten ",None
 Guard of the Citadel,Ally,Leadership,13,Gondor. Warrior.,None,,"""But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.""
 -Elrond, The Fellowship of the Ring",None,,,,,,,,,
 Faramir,Ally,Leadership,14,Gondor. Noble. Ranger.,None,<b>Action:</b> Exhaust Faramir to choose a player. Each character controlled by that player gets +1 [willpower] until the end of the phase.,"""He leads now in all perilous ventures. But his life is charmed, or fate spares him for some other end.""
@@ -138,7 +153,7 @@ Lore of Imladris,Event,Lore,63,,None,<b>Action:</b> Choose a character. Heal all
 Lórien's Wealth,Event,Lore,64,,None,<b>Action:</b> Choose a player. That player draws 3 cards.,"""That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.""
 -Legolas, The Fellowship of the Ring",None,,,,,,,,,
 Radagast's Cunning,Event,Lore,65,,None,"<b>Quest Action:</b> Choose an enemy in the staging area. Until the end of the phase, that enemy does not contribute its [threat].","""Radagast is, of course, a worthy Wizard, a master of shapes and changes of hue; and he has much lore of herbs and beasts, and birds are especially his friends."" -Gandalf, The Fellowship of the Ring",None,,,,,,,,,
-Secret Paths,Event,Lore,66,,None,"<b>Quest Action:</b> Choose a location in the staging area. Until the end of the phase, that location does not contribute its [threat].",...Beorn advised them to take this way; for at a place a few days' ride due north of the Carrock was the gate of a little-known pathway through Mirkwood... -The Hobbit,None,,,,,,,,,
+Secret Paths,Event,Lore,66,,None,"<b>Quest Action:</b> Choose a location in the staging area. Until the end of the phase, that location does not contribute its [threat].",...Beorn advised them to take this way, for at a place a few days' ride due north of the Carrock was the gate of a little-known pathway through Mirkwood... -The Hobbit,None,,,,,,,,
 Gandalf's Search,Event,Lore,67,,None,"<b>Action:</b> Look at the top X cards of any player's deck, add 1 of those cards to its owner's hand, and return the rest to the top of the deck in any order.","""Less welcome did the Lord Denethor show me then than of old, and grudgingly he permitted me to search among his hoarded scrolls and books.""
 -Gandalf, The Fellowship of the Ring",None,,,,,,,,,
 Beorn's Hospitality,Event,Lore,68,,None,<b>Action:</b> Choose a player. Heal all damage on each hero controlled by that player.,"""...and my house is open to you, if ever you come back this way again.""
